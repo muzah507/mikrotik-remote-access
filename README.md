@@ -180,6 +180,27 @@ Once connected:
 
 ---
 
+## 📁 Configuration Files
+
+This repository includes a ready-to-use MikroTik configuration script:
+
+- `configs/mikrotik-l2tp-multisubnet.rsc`
+
+### Usage
+
+Upload the file to MikroTik and run:
+
+```bash
+/import file-name=mikrotik-l2tp-multisubnet.rsc
+```
+---
+
+## ⚠️ Known Limitations
+
+- This setup will NOT work if the router is behind double NAT or CGNAT.
+- ISP routers may block required VPN ports.
+- Additional configuration (port forwarding or public IP) may be required.
+
 ## 🔄 Future Improvements
 
 * Migration to RouterOS v7 (if hardware permits)
