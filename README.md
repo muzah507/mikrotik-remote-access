@@ -201,6 +201,8 @@ Upload the file to MikroTik and run:
 - ISP routers may block required VPN ports.
 - Additional configuration (port forwarding or public IP) may be required.
 
+---
+
 ## 🔄 Future Improvements
 
 * Migration to RouterOS v7 (if hardware permits)
