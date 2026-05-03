@@ -1,3 +1,6 @@
+![Status](https://img.shields.io/badge/status-active-success)
+![RouterOS](https://img.shields.io/badge/MikroTik-RouterOS%20v6-blue)
+
 # Secure Remote Access to MikroTik (L2TP/IPsec VPN)
 
 ## 📖 Overview
