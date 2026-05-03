@@ -1,5 +1,3 @@
-# File: configs/mikrotik-l2tp-multisubnet.rsc
-
 # =========================================
 
 # MikroTik L2TP/IPsec VPN + Multi-Subnet
