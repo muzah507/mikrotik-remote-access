@@ -187,7 +187,7 @@ Once connected:
 
 ## 👤 Author
 
-**Muhammad Hamzah M.**
+**Muhammad Hamzah M**
 
 ---
 
