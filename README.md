@@ -188,14 +188,6 @@ Once connected:
 ## 👤 Author
 
 **Muhammad Hamzah M.**
-Bachelor of Islamic Economic Law
-UIN Syarif Hidayatullah Jakarta
-
-Interest:
-
-* Network Security
-* Legal-Tech & Cyber Law
-* Infrastructure Systems
 
 ---
 
